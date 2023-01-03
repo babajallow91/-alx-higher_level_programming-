@@ -2,7 +2,7 @@
 -----
 ### Concepts
 For this project, we expect you to look at this concept:
-[Never forget a test](/test/Concept-Never-forget-a-test.md)
+[Never forget a test](https://github.com/babajallow91/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/tests/Concept-Never-forgt-a-test.md)
  
  ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
